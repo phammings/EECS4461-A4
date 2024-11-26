@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Bilal\\FPS Game Sound Effects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9319B76B-E18B-EC0B-6D79-305E72379C0F}|Assembly-CSharp.csproj|d:\\projects\\bilal\\fps game sound effects\\assets\\automaticweaponfiring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9319B76B-E18B-EC0B-6D79-305E72379C0F}|Assembly-CSharp.csproj|solutionrelative:assets\\automaticweaponfiring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319B76B-E18B-EC0B-6D79-305E72379C0F}|Assembly-CSharp.csproj|D:\\Projects\\Bilal\\FPS Game Sound Effects\\assets\\new_weapon_fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9319B76B-E18B-EC0B-6D79-305E72379C0F}|Assembly-CSharp.csproj|solutionrelative:assets\\new_weapon_fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319B76B-E18B-EC0B-6D79-305E72379C0F}|Assembly-CSharp.csproj|d:\\projects\\bilal\\fps game sound effects\\assets\\changesoundsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9319B76B-E18B-EC0B-6D79-305E72379C0F}|Assembly-CSharp.csproj|solutionrelative:assets\\changesoundsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319B76B-E18B-EC0B-6D79-305E72379C0F}|Assembly-CSharp.csproj|d:\\projects\\bilal\\fps game sound effects\\assets\\fps\\scripts\\mouselookscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9319B76B-E18B-EC0B-6D79-305E72379C0F}|Assembly-CSharp.csproj|solutionrelative:assets\\fps\\scripts\\mouselookscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319B76B-E18B-EC0B-6D79-305E72379C0F}|Assembly-CSharp.csproj|D:\\Projects\\Bilal\\FPS Game Sound Effects\\assets\\fps\\scripts\\gunscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9319B76B-E18B-EC0B-6D79-305E72379C0F}|Assembly-CSharp.csproj|solutionrelative:assets\\fps\\scripts\\gunscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319B76B-E18B-EC0B-6D79-305E72379C0F}|Assembly-CSharp.csproj|D:\\Projects\\Bilal\\FPS Game Sound Effects\\assets\\fps\\scripts\\playermovementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9319B76B-E18B-EC0B-6D79-305E72379C0F}|Assembly-CSharp.csproj|solutionrelative:assets\\fps\\scripts\\playermovementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MouseLookScript.cs",
+              "DocumentMoniker": "D:\\Projects\\Bilal\\FPS Game Sound Effects\\Assets\\FPS\\Scripts\\MouseLookScript.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\MouseLookScript.cs",
+              "ToolTip": "D:\\Projects\\Bilal\\FPS Game Sound Effects\\Assets\\FPS\\Scripts\\MouseLookScript.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\MouseLookScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:58:06.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangeSoundSettings.cs",
+              "DocumentMoniker": "D:\\Projects\\Bilal\\FPS Game Sound Effects\\Assets\\ChangeSoundSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\ChangeSoundSettings.cs",
+              "ToolTip": "D:\\Projects\\Bilal\\FPS Game Sound Effects\\Assets\\ChangeSoundSettings.cs",
+              "RelativeToolTip": "Assets\\ChangeSoundSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:40:28.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutomaticWeaponFiring.cs",
+              "DocumentMoniker": "D:\\Projects\\Bilal\\FPS Game Sound Effects\\Assets\\AutomaticWeaponFiring.cs",
+              "RelativeDocumentMoniker": "Assets\\AutomaticWeaponFiring.cs",
+              "ToolTip": "D:\\Projects\\Bilal\\FPS Game Sound Effects\\Assets\\AutomaticWeaponFiring.cs",
+              "RelativeToolTip": "Assets\\AutomaticWeaponFiring.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T22:39:38.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "new_weapon_fire.cs",
+              "DocumentMoniker": "D:\\Projects\\Bilal\\FPS Game Sound Effects\\Assets\\new_weapon_fire.cs",
+              "RelativeDocumentMoniker": "Assets\\new_weapon_fire.cs",
+              "ToolTip": "D:\\Projects\\Bilal\\FPS Game Sound Effects\\Assets\\new_weapon_fire.cs",
+              "RelativeToolTip": "Assets\\new_weapon_fire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:27:25.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GunScript.cs",
+              "DocumentMoniker": "D:\\Projects\\Bilal\\FPS Game Sound Effects\\Assets\\FPS\\Scripts\\GunScript.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\GunScript.cs",
+              "ToolTip": "D:\\Projects\\Bilal\\FPS Game Sound Effects\\Assets\\FPS\\Scripts\\GunScript.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\GunScript.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAEwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:34:49.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerMovementScript.cs",
+              "DocumentMoniker": "D:\\Projects\\Bilal\\FPS Game Sound Effects\\Assets\\FPS\\Scripts\\PlayerMovementScript.cs",
+              "RelativeDocumentMoniker": "Assets\\FPS\\Scripts\\PlayerMovementScript.cs",
+              "ToolTip": "D:\\Projects\\Bilal\\FPS Game Sound Effects\\Assets\\FPS\\Scripts\\PlayerMovementScript.cs",
+              "RelativeToolTip": "Assets\\FPS\\Scripts\\PlayerMovementScript.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAApwJUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:54:34.267Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
